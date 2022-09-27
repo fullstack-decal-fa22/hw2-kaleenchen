@@ -182,7 +182,7 @@ h2 {
 /* For margin practice */
 .flag1 {
   background-color: red;
-    margin: 10px;
+    margin: 5px;
 }
 
 .flag2 {
@@ -194,8 +194,5 @@ h2 {
   box-sizing: border-box;
   background-color: lightblue;
   background-clip: content-box, padding-box;
-  padding: right 60px;
-  padding: left 60px;
-  padding: top 60px;
-  padding: bottom 60px;
+  padding: 30px, 30px, 30px, 30px;
 }
